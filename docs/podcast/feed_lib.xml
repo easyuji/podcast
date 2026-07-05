@@ -9,5 +9,16 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology" />
     <itunes:image href="https://raw.githubusercontent.com/easyuji/podcast/main/docs/podcast/images/cover_lib.jpg" />
+    <item>
+      <title>週刊Life is beautiful ２０２６年６月３０日号： Claude Code：どっちがボスか？、SpaceXとTeslaの合併、熱力学の観点から見た知性、AIモデルの信頼性</title>
+      <description>こんしゅうのざっくばらん
+Claude Code：どっちがボスか？
+最近、コーディングはすっかりClaude Codeに任せるようになった私ですが、時々、どっちがボスか分からなくなる時があります。Claude Codeを使うようになって、生産性が爆上がりしたのは良いのですが、しばしば私がボトルネックになってしまうので、（次の指示を待っているClaude Codeに）仕事をせかされているように感じてしまうのです。
+先日、日本からシアトルに帰国する際にも、空港のラウンジでClaude Codeに比較的時間がかかる作業の指示を出した上で、飛行機に乗りました。乗った便が、飛行中はインターネットにアクセ</description>
+      <pubDate>Tue, 30 Jun 2026 07:10:00 +0900</pubDate>
+      <guid>1869371078252066743</guid>
+      <itunes:duration>3624</itunes:duration>
+      <enclosure url="https://easyuji.github.io/podcast/audio/20260705_週刊life-is-beautiful-２０２６年６月３０日号-claude-codeどっちがボスか.mp3" type="audio/mpeg" length="21749709" />
+    </item>
   </channel>
 </rss>
