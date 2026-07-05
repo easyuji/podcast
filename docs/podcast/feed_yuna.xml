@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>ゆな先生のAIメルマガ Podcast</title>
+    <description>ゆな先生のnoteメルマガを音声で聴く</description>
+    <language>ja</language>
+    <link>https://easyuji.github.io/podcast</link>
+    <itunes:author>Yuji</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology" />
+    <itunes:image href="https://raw.githubusercontent.com/easyuji/podcast/main/docs/podcast/images/cover_yuna.jpg" />
+    <item>
+      <title>税収過去最高のカラクリ 〜国家に収奪されないため…</title>
+      <description>サイトで確認する
+税収過去最高のカラクリ 〜国家に収奪されないために知っておくべきこと〜
+最近、スーパーに行くたびに驚くことが多い。
+コーヒーは豆の高騰でまた値上げされ、チョコレートは中身が一回り小さくなったのに値段だけは上がっている。
+パンもことしまた一斉に値上げされた。
+この7月だけで2000品目を超える食品が値上げされ、年間の値上げ品目は5年連続で1万を超える見通しだという。
+値上げに次ぐ値上げで、牛丼チェーンの並盛がワンコインで気軽に食べられた時代が、もう懐かしい。
+都心のランチは1000円では収まらなくなった。
+1000円か2000円どちらに近いかと言われると、超都心部だと2000円</description>
+      <pubDate>Sat, 04 Jul 2026 03:56:02 +0000</pubDate>
+      <guid>1869755043636964451</guid>
+      <itunes:duration>4451</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/easyuji/podcast/main/docs/podcast/images/ep_20260704_税収過去最高のカラクリ-国家に収奪されないため.jpg" />
+      <enclosure url="https://easyuji.github.io/podcast/audio/20260704_税収過去最高のカラクリ-国家に収奪されないため.mp3" type="audio/mpeg" length="26710077" />
+    </item>
+  </channel>
+</rss>

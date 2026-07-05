@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>気になる記事 Podcast</title>
+    <description>URLから音声化した記事のポッドキャスト</description>
+    <language>ja</language>
+    <link>https://easyuji.github.io/podcast</link>
+    <itunes:author>Yuji</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology" />
+    <itunes:image href="https://raw.githubusercontent.com/easyuji/podcast/main/docs/podcast/images/cover_adhoc.jpg" />
+  </channel>
+</rss>

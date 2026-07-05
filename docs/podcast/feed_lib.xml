@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>週刊Life is beautiful Podcast</title>
+    <description>中島聡のメルマガを音声で聴く</description>
+    <language>ja</language>
+    <link>https://easyuji.github.io/podcast</link>
+    <itunes:author>Yuji</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology" />
+    <itunes:image href="https://raw.githubusercontent.com/easyuji/podcast/main/docs/podcast/images/cover_lib.jpg" />
+  </channel>
+</rss>
