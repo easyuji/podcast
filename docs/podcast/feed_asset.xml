@@ -9,5 +9,19 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology" />
     <itunes:image href="https://raw.githubusercontent.com/easyuji/podcast/main/docs/podcast/images/cover_asset.jpg" />
+    <item>
+      <title>フェアのアンケート回答で最大1500円 資産デザイン研究所メール＜第691号2026年7月3日＞</title>
+      <description>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+内藤忍の資産デザイン研究所メール＜第六百九十一号2026年7月3日（金）発行＞
+資産デザイン研究所メールは、資産運用に役立つ情報を個人投資家の皆様に提供するウィークリー・メールマガジンです。
+金融資産だけではなく、不動産をはじめとする実物資産への投資まで、幅広い投資対象を組み合わせる「ハイブリッド投資」の具体的方法を可能な限り客観的な視点でご紹介いたします。
+資産デザイン研究所
+内藤忍公式ブログ
+内藤忍、株式会社資産デザイン研究所は、資産配分などの投資アドバイスは行いますが、金融商品の勧誘・推奨などの投資助言業務は一切行</description>
+      <pubDate>Fri, 03 Jul 2026 17:14:17 +0900</pubDate>
+      <guid>1869685671893250797</guid>
+      <itunes:duration>640</itunes:duration>
+      <enclosure url="https://easyuji.github.io/podcast/audio/20260705_フェアのアンケート回答で最大1500円-資産デザイン研究所メール第691号2026年7月3日.mp3" type="audio/mpeg" length="12817920" />
+    </item>
   </channel>
 </rss>
