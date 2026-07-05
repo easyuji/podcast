@@ -9,5 +9,27 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology" />
     <itunes:image href="https://raw.githubusercontent.com/easyuji/podcast/main/docs/podcast/images/cover_kinyu.jpg" />
+    <item>
+      <title>週刊金融日記 第737号 Micronと立場が逆転したAppleが泣きつく中国のDRAM企業CXMT（長?メモリ）について解説します、キオクシア社員から億万長者続出、銀座の高級焼鳥店とオバマ大統領も行った某鮨屋の値段見たらワロタ話、理学部と工学部の違い、他【夜間飛行】</title>
+      <description>週刊金融日記
+2026年6月29日 第七百三十七号
+Micronと立場が逆転したアップルが泣きつく中国のディーラム企業CXMT（長?メモリ）につ
+いて解説します
+キオクシア社員から億万長者続出
+銀座の高級焼鳥店とオバマ大統領も行った某鮨屋の値段見たらワロタ話
+理学部と工学部の違い
+他
+web版
+こんにちは。ふじさわかずきです。
+それにしても、エーアイ半導体株は、乱高下が激しいですね（笑）。
+フラッシュメモリかいはつのパイオニアである舛岡さんのかつての部下たちの話が面白かっ
+たです。NHKは再放送してほしいですね。
+欧州に熱波が来ておりますね。欧州は景観保全のためにエアコンの設置が規制されてい
+</description>
+      <pubDate>Mon, 29 Jun 2026 07:11:19 +0900</pubDate>
+      <guid>1869280371140199546</guid>
+      <itunes:duration>2846</itunes:duration>
+      <enclosure url="https://easyuji.github.io/podcast/audio/20260705_週刊金融日記-第737号-micronと立場が逆転したappleが泣きつく中国のdram企業cxmt.mp3" type="audio/mpeg" length="17077341" />
+    </item>
   </channel>
 </rss>
