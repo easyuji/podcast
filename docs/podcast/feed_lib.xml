@@ -10,6 +10,20 @@
     <itunes:category text="Technology" />
     <itunes:image href="https://raw.githubusercontent.com/easyuji/podcast/main/docs/podcast/images/cover_lib.jpg" />
     <item>
+      <title>週刊Life is beautiful ２０２６年７月７日号： MulmoClaudeとは何か？、カスタムAIチップの最前線</title>
+      <description>こんしゅうのざっくばらん
+[EN]MulmoClaudeとは何か？[/EN]
+[EN]MulmoClaudeは、Andrej Karpathyの[/EN]
+Wiki+エルエルエム
+に刺激を受けて作り始めたソフトウェアですが、Wikiだけでは不満で、コレクションというデータベース機能を付け加えたあたりから、私自身にとって「なくてはならないソフトウェア」になりつつあります。
+日本出張のスケジューリング、請求書の発行、メルマガの執筆準備などの仕事はもちろんのこと、ワールドカップの観戦から外食ガイドまで、応用範囲が次々に広まり、あっという間にコレクションの数は２０を超え、私自身がヘビー・ユーザーになっ</description>
+      <pubDate>Tue, 07 Jul 2026 07:10:00 +0900</pubDate>
+      <guid>1870005658483226280</guid>
+      <itunes:duration>5948</itunes:duration>
+      <itunes:image href="https://raw.githubusercontent.com/easyuji/podcast/main/docs/podcast/images/ep_20260706_週刊life-is-beautiful-２０２６年７月７日号.jpg" />
+      <enclosure url="https://easyuji.github.io/podcast/audio/20260706_週刊life-is-beautiful-２０２６年７月７日号-mulmoclaudeとは何かカスタム.mp3" type="audio/mpeg" length="35693949" />
+    </item>
+    <item>
       <title>週刊Life is beautiful ２０２６年６月３０日号： Claude Code：どっちがボスか？、SpaceXとTeslaの合併、熱力学の観点から見た知性、AIモデルの信頼性</title>
       <description>こんしゅうのざっくばらん
 Claude Code：どっちがボスか？
