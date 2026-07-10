@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>週刊Life is beautiful Podcast</title>
     <description>中島聡のメルマガを音声で聴く</description>
@@ -20,6 +20,7 @@ Wiki+エルエルエム
       <pubDate>Tue, 07 Jul 2026 07:10:00 +0900</pubDate>
       <guid>1870005658483226280</guid>
       <itunes:duration>5948</itunes:duration>
+      <content:encoded>&lt;p&gt;こんしゅうのざっくばらん&lt;/p&gt;&lt;p&gt;[EN]MulmoClaudeとは何か？[/EN]&lt;/p&gt;&lt;p&gt;[EN]MulmoClaudeは、Andrej Karpathyの[/EN]&lt;/p&gt;&lt;p&gt;Wiki+エルエルエム&lt;/p&gt;&lt;p&gt;に刺激を受けて作り始めたソフトウェアですが、Wikiだけでは不満で、コレクションというデータベース機能を付け加えたあたりから、私自身にとって「なくてはならないソフトウェア」になりつつあります。&lt;/p&gt;&lt;p&gt;日本出張のスケジューリング、請求書の発行、メルマガの執筆準備などの仕事はもちろんのこと、ワールドカップの観戦から外食ガイドまで、応用範囲が次々に広まり、あっという間にコレクションの数は２０を超え、私自身がヘビー・ユーザーになっ&lt;/p&gt;</content:encoded>
       <itunes:image href="https://raw.githubusercontent.com/easyuji/podcast/main/docs/podcast/images/ep_20260706_週刊life-is-beautiful-２０２６年７月７日号.jpg" />
       <enclosure url="https://easyuji.github.io/podcast/audio/20260706_週刊life-is-beautiful-２０２６年７月７日号-mulmoclaudeとは何かカスタム.mp3" type="audio/mpeg" length="35693949" />
     </item>
@@ -32,6 +33,7 @@ Claude Code：どっちがボスか？
       <pubDate>Tue, 30 Jun 2026 07:10:00 +0900</pubDate>
       <guid>1869371078252066743</guid>
       <itunes:duration>3624</itunes:duration>
+      <content:encoded>&lt;p&gt;こんしゅうのざっくばらん&lt;/p&gt;&lt;p&gt;Claude Code：どっちがボスか？&lt;/p&gt;&lt;p&gt;最近、コーディングはすっかりClaude Codeに任せるようになった私ですが、時々、どっちがボスか分からなくなる時があります。Claude Codeを使うようになって、生産性が爆上がりしたのは良いのですが、しばしば私がボトルネックになってしまうので、（次の指示を待っているClaude Codeに）仕事をせかされているように感じてしまうのです。&lt;/p&gt;&lt;p&gt;先日、日本からシアトルに帰国する際にも、空港のラウンジでClaude Codeに比較的時間がかかる作業の指示を出した上で、飛行機に乗りました。乗った便が、飛行中はインターネットにアクセ&lt;/p&gt;</content:encoded>
       <enclosure url="https://easyuji.github.io/podcast/audio/20260705_週刊life-is-beautiful-２０２６年６月３０日号-claude-codeどっちがボスか.mp3" type="audio/mpeg" length="21749709" />
     </item>
   </channel>
