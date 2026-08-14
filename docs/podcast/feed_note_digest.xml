@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>note 新作ダイジェスト Podcast</title>
     <description>note.com のフォロー中クリエイター新作通知をまとめて音声で聴く</description>
@@ -9,5 +9,70 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology" />
     <itunes:image href="https://easyuji.github.io/podcast/podcast/images/cover_note_digest.jpg" />
+    <item>
+      <title>今日の新作｜Elon Muskはなぜ「ガスタービン会社」を買ったのか？ ほか23件</title>
+      <description>中島聡さん、他2名の新作が届きました
+フォロー中のクリエイターの新作です！
+中島聡
+Elon Muskはなぜ「ガスタービン会社」を買ったのか？
+中島聡
+「エーアイ導入率88パーセント」はなぜ現場を速くしないのか？
+中島聡
+テスラとSpaceXが合併するなら、テスラの値段は「$2T」で決まっているのか？
+梶谷健人
+【だいじなご報告】 エーアイをフル活用して2つのサービスを1人で開発しました ＆ βテストに招待します！
+中島聡
+ロボタクシーの時代に、なぜUberが有利なのか？
+中島聡
+頭の中の独り言は、いつまで「誰にも触れない場所」でいられるのか？
+中島聡
+xAIの「混乱」は敗北なのか、それとも優先順位の切り替えなのか？
+中島聡
+エーアイの利用量は、まだS字カーブの入口なのか？
+中島聡
+SpaceXは八四半期でロケット会社から「計算能力の会社」に変わるのか？
+中島聡
+シニアエンジニア一人とエーアイエージェントは、五人チームを超えるのか？
+中島聡
+インターネットは、もう人間のものではなくなるのか？
+デジタル庁
+⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に
+中島聡
+AlphaGoの「Move 37」は、ひらめきではなくチップの速さが生んだのか？
+中島聡
+半導体の露光装置に、粒子加速器が使われる日は来るのか？
+中島聡
+エーアイは半導体エンジニアの人手不足を埋められるのか？
+その他の新作
+きょうのあなたにおすすめの記事が届いています！
+BigShip |  ひとり法人2期目
+診断士2次試験まで75日 | 情報収集＆徐々に始動
+ペン太郎@大企業幹部の日常と投資
+【就職・転職】おすすめできる、できない業界業種
+総合コンサル@1億円貯める
+総合コンサルの金融資産｜社会人8年目｜2026年7月
+がむ27卒＠28卒向けやさしい就活
+2002年、世界最大のIT企業が、BIG4の一角だった「PwCコンサルティング部門」を丸ごと買収したという事実を知っていますか。IBMコンサルティングの知られざる出自｜コンサル就活ガイド
+早川雅映（はやかわまさてる）
+パラレルワールド？虚数？あの世？——早川雅映の視点とエーアイ麦子の応答
+中堅コンサル（コンサル系情報発信/仕事術/サバイブ術/キャリア形成etc.）
+エーアイ時代のコンサルジュニアの生き残り方/エーアイとの向き合い方
+jin
+PIPになった部下と半年向き合って、私がさいごに出した結論
+Pro Bro - タツ
+転職は何回までOK？ - ジョブホッパーになる境目
+ふっき
+外資IT物語 | 四半期末の絶望とカタルシス
+もっと見る
+ヘルプ /
+利用規約</description>
+      <pubDate>Fri, 14 Aug 2026 00:49:52 +0000</pubDate>
+      <guid>1873457807708133277</guid>
+      <itunes:duration>210</itunes:duration>
+      <content:encoded>&lt;p&gt;中島聡さん、他2名の新作が届きました&lt;/p&gt;&lt;p&gt;フォロー中のクリエイターの新作です！&lt;/p&gt;&lt;p&gt;中島聡&lt;/p&gt;&lt;p&gt;Elon Muskはなぜ「ガスタービン会社」を買ったのか？&lt;/p&gt;&lt;p&gt;中島聡&lt;/p&gt;&lt;p&gt;「エーアイ導入率88パーセント」はなぜ現場を速くしないのか？&lt;/p&gt;&lt;p&gt;中島聡&lt;/p&gt;&lt;p&gt;テスラとSpaceXが合併するなら、テスラの値段は「$2T」で決まっているのか？&lt;/p&gt;&lt;p&gt;梶谷健人&lt;/p&gt;&lt;p&gt;【だいじなご報告】 エーアイをフル活用して2つのサービスを1人で開発しました ＆ βテストに招待します！&lt;/p&gt;&lt;p&gt;中島聡&lt;/p&gt;&lt;p&gt;ロボタクシーの時代に、なぜUberが有利なのか？&lt;/p&gt;&lt;p&gt;中島聡&lt;/p&gt;&lt;p&gt;頭の中の独り言は、いつまで「誰にも触れない場所」でいられるのか？&lt;/p&gt;&lt;p&gt;中島聡&lt;/p&gt;&lt;p&gt;xAIの「混乱」は敗北なのか、それとも優先順位の切り替えなのか？&lt;/p&gt;&lt;p&gt;中島聡&lt;/p&gt;&lt;p&gt;エーアイの利用量は、まだS字カーブの入口なのか？&lt;/p&gt;&lt;p&gt;中島聡&lt;/p&gt;&lt;p&gt;SpaceXは八四半期でロケット会社から「計算能力の会社」に変わるのか？&lt;/p&gt;&lt;p&gt;中島聡&lt;/p&gt;&lt;p&gt;シニアエンジニア一人とエーアイエージェントは、五人チームを超えるのか？&lt;/p&gt;&lt;p&gt;中島聡&lt;/p&gt;&lt;p&gt;インターネットは、もう人間のものではなくなるのか？&lt;/p&gt;&lt;p&gt;デジタル庁&lt;/p&gt;&lt;p&gt;⾏政⼿続等調査データ（約75,000件）をMCPで⾃然⾔語分析可能に&lt;/p&gt;&lt;p&gt;中島聡&lt;/p&gt;&lt;p&gt;AlphaGoの「Move 37」は、ひらめきではなくチップの速さが生んだのか？&lt;/p&gt;&lt;p&gt;中島聡&lt;/p&gt;&lt;p&gt;半導体の露光装置に、粒子加速器が使われる日は来るのか？&lt;/p&gt;&lt;p&gt;中島聡&lt;/p&gt;&lt;p&gt;エーアイは半導体エンジニアの人手不足を埋められるのか？&lt;/p&gt;&lt;p&gt;その他の新作&lt;/p&gt;&lt;p&gt;きょうのあなたにおすすめの記事が届いています！&lt;/p&gt;&lt;p&gt;BigShip |  ひとり法人2期目&lt;/p&gt;&lt;p&gt;診断士2次試験まで75日 | 情報収集＆徐々に始動&lt;/p&gt;&lt;p&gt;ペン太郎@大企業幹部の日常と投資&lt;/p&gt;&lt;p&gt;【就職・転職】おすすめできる、できない業界業種&lt;/p&gt;&lt;p&gt;総合コンサル@1億円貯める&lt;/p&gt;&lt;p&gt;総合コンサルの金融資産｜社会人8年目｜2026年7月&lt;/p&gt;&lt;p&gt;がむ27卒＠28卒向けやさしい就活&lt;/p&gt;&lt;p&gt;2002年、世界最大のIT企業が、BIG4の一角だった「PwCコンサルティング部門」を丸ごと買収したという事実を知っていますか。IBMコンサルティングの知られざる出自｜コンサル就活ガイド&lt;/p&gt;&lt;p&gt;早川雅映（はやかわまさてる）&lt;/p&gt;&lt;p&gt;パラレルワールド？虚数？あの世？——早川雅映の視点とエーアイ麦子の応答&lt;/p&gt;&lt;p&gt;中堅コンサル（コンサル系情報発信/仕事術/サバイブ術/キャリア形成etc.）&lt;/p&gt;&lt;p&gt;エーアイ時代のコンサルジュニアの生き残り方/エーアイとの向き合い方&lt;/p&gt;&lt;p&gt;jin&lt;/p&gt;&lt;p&gt;PIPになった部下と半年向き合って、私がさいごに出した結論&lt;/p&gt;&lt;p&gt;Pro Bro - タツ&lt;/p&gt;&lt;p&gt;転職は何回までOK？ - ジョブホッパーになる境目&lt;/p&gt;&lt;p&gt;ふっき&lt;/p&gt;&lt;p&gt;外資IT物語 | 四半期末の絶望とカタルシス&lt;/p&gt;&lt;p&gt;もっと見る&lt;/p&gt;&lt;p&gt;ヘルプ /&lt;/p&gt;&lt;p&gt;利用規約&lt;/p&gt;</content:encoded>
+      <podcast:transcript url="https://easyuji.github.io/podcast/podcast/transcripts/20260814_今日の新作elon-muskはなぜガスタービン会社を買ったのか-ほか23件.vtt" type="text/vtt" language="ja" />
+      <itunes:image href="https://easyuji.github.io/podcast/podcast/images/ep_20260814_今日の新作elon-muskはなぜガスタービン会社を買ったの.jpg" />
+      <enclosure url="https://easyuji.github.io/podcast/audio/20260814_今日の新作elon-muskはなぜガスタービン会社を買ったのか-ほか23件.mp3" type="audio/mpeg" length="1262592" />
+    </item>
   </channel>
 </rss>
