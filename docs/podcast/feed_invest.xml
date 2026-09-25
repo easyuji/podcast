@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>投資レポート Podcast</title>
     <description>ウォッチリストと検討中銘柄の週次レポートを音声で聴く</description>
@@ -9,5 +9,28 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:category text="Technology" />
     <itunes:image href="https://easyuji.github.io/podcast/podcast/images/cover_asset.jpg" />
+    <item>
+      <title>投資レポート 9月26日号</title>
+      <description>2026年09月26日(Sat)の投資レポート。対象45銘柄。
+【検討中の銘柄】
+・SKハイニックス（韓国取引所）：買えるなら押し目を分割で。ただし購入手段の確保が先。日本の主要ネット証券では韓国株を扱っておらず、実務的には米国上場のマイクロン(MU)での代替を先に検討したい。
+・共立メンテナンス：いま拾って良い水準。業績と株価が逆行しており、ここは時間を味方にできる局面。
+・アドバンテスト：キオクシアやSKハイニックスを買うなら、その前にここを検討する価値がある。ただし既に高値圏で、分割エントリー前提。
+・ディスコ：押し目待ち。指値を置いて待つ姿勢が合う。
+・SCREENホールディングス：装置3社（アドバンテスト・ディスコ・SCREEN）の中では相対的に出遅れており、バリュエーション面で入りやすい。
+・荏原製作所：半導体以外の事業（ポンプ・環境）が下支えするため、他の装置株より安心して打診できる。
+・レゾナック・ホールディングス：後工程材料の比率が上がるまで待つ判断もある。急がずウォッチから。
+・ハーモニック・ドライブ・システムズ：ヒューマノイドが話題になるたび跳ねる銘柄。テーマが冷えている時に仕込むのが定石。
+・パナソニックホールディングス：Tesla関連としては期待しすぎない前提で。配当を受け取りながら待つ銘柄。
+・村田製作所：押し目で拾って長く持つ。福井の新拠点が動き出したところで、次の成長への布石が打たれている。
+・ファナック：日本製造業の復活に賭けるなら本命の一角。設備投資サイクルの底で拾いたい。
+・安川電機：ファナックとの二択なら、値動きの素直さでこちら。決算で受注が底打ちしたのを確認してから。</description>
+      <pubDate>Sat, 26 Sep 2026 08:56:15 +0900</pubDate>
+      <guid>invest-2026-09-26</guid>
+      <itunes:duration>689</itunes:duration>
+      <content:encoded>&lt;p&gt;2026年09月26日(Sat)の投資レポート。対象45銘柄。&lt;/p&gt;&lt;p&gt;【検討中の銘柄】&lt;/p&gt;&lt;p&gt;・SKハイニックス（韓国取引所）：買えるなら押し目を分割で。ただし購入手段の確保が先。日本の主要ネット証券では韓国株を扱っておらず、実務的には米国上場のマイクロン(MU)での代替を先に検討したい。&lt;/p&gt;&lt;p&gt;・共立メンテナンス：いま拾って良い水準。業績と株価が逆行しており、ここは時間を味方にできる局面。&lt;/p&gt;&lt;p&gt;・アドバンテスト：キオクシアやSKハイニックスを買うなら、その前にここを検討する価値がある。ただし既に高値圏で、分割エントリー前提。&lt;/p&gt;&lt;p&gt;・ディスコ：押し目待ち。指値を置いて待つ姿勢が合う。&lt;/p&gt;&lt;p&gt;・SCREENホールディングス：装置3社（アドバンテスト・ディスコ・SCREEN）の中では相対的に出遅れており、バリュエーション面で入りやすい。&lt;/p&gt;&lt;p&gt;・荏原製作所：半導体以外の事業（ポンプ・環境）が下支えするため、他の装置株より安心して打診できる。&lt;/p&gt;&lt;p&gt;・レゾナック・ホールディングス：後工程材料の比率が上がるまで待つ判断もある。急がずウォッチから。&lt;/p&gt;&lt;p&gt;・ハーモニック・ドライブ・システムズ：ヒューマノイドが話題になるたび跳ねる銘柄。テーマが冷えている時に仕込むのが定石。&lt;/p&gt;&lt;p&gt;・パナソニックホールディングス：Tesla関連としては期待しすぎない前提で。配当を受け取りながら待つ銘柄。&lt;/p&gt;&lt;p&gt;・村田製作所：押し目で拾って長く持つ。福井の新拠点が動き出したところで、次の成長への布石が打たれている。&lt;/p&gt;&lt;p&gt;・ファナック：日本製造業の復活に賭けるなら本命の一角。設備投資サイクルの底で拾いたい。&lt;/p&gt;&lt;p&gt;・安川電機：ファナックとの二択なら、値動きの素直さでこちら。決算で受注が底打ちしたのを確認してから。&lt;/p&gt;</content:encoded>
+      <podcast:transcript url="https://easyuji.github.io/podcast/podcast/transcripts/invest_2026-09-26.vtt" type="text/vtt" language="ja" />
+      <enclosure url="https://easyuji.github.io/podcast/audio/invest_2026-09-26.mp3" type="audio/mpeg" length="4136925" />
+    </item>
   </channel>
 </rss>
